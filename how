@@ -1,0 +1,28 @@
+[33mcommit 4181b05ca6f842368d14972c73d19fe3eb48ab8f[m
+Author: 권도인 <padakmonin@naver.com>
+Date:   Mon Aug 29 14:40:17 2022 +0900
+
+    Create README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..34d4672[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m### 수학 계산을 위한 코드를 제공하는 프로젝트[m
+\ No newline at end of file[m
+[1mdiff --git a/calculator.py b/calculator.py[m
+[1mindex 3aafa9b..77b51db 100644[m
+[1m--- a/calculator.py[m
+[1m+++ b/calculator.py[m
+[36m@@ -1,5 +1,6 @@[m
+ # 계산기[m
+[32m+[m[32m# 계산기다아~[m
+ def add(a, b):[m
+   return a+b[m
+ def subtract(a, b):[m
+[31m-  return a-b[m
+\ No newline at end of file[m
+[32m+[m[32m  return a*b[m
+\ No newline at end of file[m
